@@ -1,6 +1,3 @@
-# shoestore-mobile
- Sample clone Netshoes web page made with ReactJS (Mobile)
-
 <h1 align="center">
     <img alt="" src="" />
     <br>
@@ -8,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  With this project it will be possible to create multiple clients, and in each client create multiple projects and manage users for each client between administrator, moderator and visitor, with their proper permissions
+  Sample clone Netshoes web page made with ReactJS (Mobile)
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/shoestore-mobile">
